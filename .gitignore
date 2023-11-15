@@ -1,6 +1,6 @@
 /venv/
 */venv/*
-/__pylace__/
+/__pycache__/
 
 
 
